@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 ### Hi there👋 I'm 田埂、 ❄️ 
 
 <!--
+[![Blog](http://image.codingce.com.cn/blog/20200819/102828838.svg)](https://shaogezhu.cn/)
 [![Folio](https://img.shields.io/badge/Folio-%20-orange?logo=fandango)](https://folio-iota.vercel.app/)
-[![Blog](http://image.codingce.com.cn/blog/20200819/102828838.svg)](https://i.codingce.com.cn/)
-[![codingce@gmail.com](http://image.codingce.com.cn/blog/20200819/104221397.svg)](mailto:codingce@gmail.com)
-[![Folio](https://img.shields.io/badge/Folio-%20-orange?logo=fandango)](https://folio-iota.vercel.app/)
-[![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
+[![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://shaogezhu.cn/)
 -->  
 <br/>
 
